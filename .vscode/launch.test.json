@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "java_junit",
+                "projectName": "java_junit",
+                "workingDirectory": "/Users/appseed246/src/TDD/java_junit5",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "java_junit",
+                "projectName": "java_junit",
+                "workingDirectory": "/Users/appseed246/src/TDD/java_junit5",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
