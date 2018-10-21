@@ -10,5 +10,6 @@
 + [ ] 他のオブジェクトとの等価性比較
 + [x] 5CHF * 2 = 10CHF
 + [ ] DollarとFrancの重複を削除
-+ [ ] equalsの一般化
++ [x] equalsの一般化
 + [ ] timesの一般化
++ [ ] FrancとDollarの比較
