@@ -4,5 +4,7 @@
 + [ ] amountをprivate
 + [x] dollar副作用は？
 + [ ] Moneryの丸め処理どうする？
-+ [ ] equals()
++ [x] equals()
 + [ ] hasCode()
++ [ ] nullとの等価性比較
++ [ ] 他のオブジェクトとの等価性比較

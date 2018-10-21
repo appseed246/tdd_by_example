@@ -11,7 +11,8 @@ class Dollar {
     }
 
     public boolean equals(Object object) {
-        return true;
+        Dollar dollar = (Dollar) object;
+        return amount == dollar.amount;
     }
 
 }
