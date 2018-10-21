@@ -8,3 +8,7 @@
 + [ ] hasCode()
 + [ ] nullとの等価性比較
 + [ ] 他のオブジェクトとの等価性比較
++ [x] 5CHF * 2 = 10CHF
++ [ ] DollarとFrancの重複を削除
++ [ ] equalsの一般化
++ [ ] timesの一般化
