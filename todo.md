@@ -14,3 +14,4 @@
 + [ ] timesの一般化
 + [x] FrancとDollarの比較
 + [ ] 通過の概念
++ [ ] testFrancMultiplicationの削除の検討
